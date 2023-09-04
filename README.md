@@ -14,3 +14,5 @@ Architectures we have tested: GAT, FeaStNet, SAGE, GCN
 `testing.py` is to test a trained model\
 `training.py` is to experiment with different models and parameters\
 `training_sweep.py` is for hyperparameter optimization with Wandb Sweep
+
+![Presentation Poster](poster.jpg "Presentation Poster")
